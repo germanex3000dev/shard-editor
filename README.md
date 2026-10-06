@@ -8,6 +8,8 @@ shard file.py
 
 Opens `file.py`, or starts empty if it doesn't exist yet.
 
+This editor is intentionally made as minmal as possible, so there is no real "UI" except the file contents.
+
 ## Keys
 
 | Key       | Action                       |
