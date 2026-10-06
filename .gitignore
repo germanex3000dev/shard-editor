@@ -1,0 +1,14 @@
+# build output
+build/
+cmake-build-*/
+result
+result-*
+
+# binaries built in the source tree
+/shard
+
+# editor and OS droppings
+*~
+*.swp
+*.tmp
+.DS_Store
